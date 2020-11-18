@@ -1,0 +1,31 @@
+{
+  "name": "studentcode",
+  "version": "1.0.0",
+  "description": "A Mobile Project to facilitate getting student and email code for zagazig university",
+  "main": "lib/main.dart",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosam1696/cse-studentcode.git"
+  },
+  "keywords": [
+    "zag",
+    "eng",
+    "code",
+    "student",
+    "email",
+    "cse"
+  ],
+  "author": "Hosam Elnabawy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hosam1696/cse-studentcode/issues"
+  },
+  "homepage": "https://github.com/hosam1696/cse-studentcode#readme"
+}
